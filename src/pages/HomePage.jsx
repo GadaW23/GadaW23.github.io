@@ -154,7 +154,7 @@ function HomePage() {
                 Berita Terbaru
               </h1>
               <p className="text-center text-muted">
-               Sekilas Info Berita Update Terkini
+                Sekilas Info Berita Update Terkini
               </p>
             </Col>
           </Row>
