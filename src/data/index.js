@@ -25,7 +25,7 @@ import People2 from "../assets/img/testimonial/people-2.jpg";
 import People3 from "../assets/img/testimonial/people-3.jpg";
 
 import Ppdb from "../assets/img/kelas/ppdb sman5.jpg" 
-import Psb from "../assets/img/kelas/psb sman5.jpg" 
+import Psb from "../assets/img/kelas/PSB sman5.jpg" 
 import { text } from "@fortawesome/fontawesome-svg-core";
 
 export const navLinks = [
